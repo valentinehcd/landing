@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgb(53 52 52 / 80%) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/livre.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-position: center;
+	background-size: cover;
+}
+.banner h1 {
+	font-size: 70px;
+	color: #f44336;	
+}
+
+.banner h2 {
+	margin-bottom: 40px;
+	opacity: 95%;
+}
+
